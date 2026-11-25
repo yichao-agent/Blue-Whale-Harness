@@ -2012,3 +2012,4 @@ zhiquanchi/dsh-mac-notifications
 ericenyan/dsh-yubagu
 xx-hub/dsh-craft-your-textbook
 hAcKlyc/dsh-zsearch
+yichao-agent/dsh-superagent-session-fold
